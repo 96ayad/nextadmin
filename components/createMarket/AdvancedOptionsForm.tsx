@@ -1,6 +1,6 @@
 import { Switch } from "@headlessui/react";
 import { FormState, UseFormRegister, UseFormSetValue } from "react-hook-form";
-import { CreateMarketFormValues } from "../../pages/market/create";
+import { CreateMarketFormValues } from "../../app/market/create";
 import { classNames } from "../../utils/general";
 
 type AdvancedOptionsFormProps = {

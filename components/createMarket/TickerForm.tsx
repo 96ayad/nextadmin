@@ -1,5 +1,5 @@
 import { UseFormRegister } from "react-hook-form";
-import { CreateMarketFormValues } from "../../pages/market/create";
+import { CreateMarketFormValues } from "../../app/market/create";
 
 type TickerFormProps = {
   register: UseFormRegister<CreateMarketFormValues>;
