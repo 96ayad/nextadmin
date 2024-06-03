@@ -1,5 +1,5 @@
 import { useConnection } from "@solana/wallet-adapter-react";
-import 'rpc-websockets/dist/lib/client';
+// import 'rpc-websockets/dist/lib/client';
 import { Connection, PublicKey } from "@solana/web3.js";
 import useSWR from "swr";
 import { useSerum } from "../context/SerumContext";
