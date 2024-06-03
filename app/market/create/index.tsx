@@ -21,7 +21,7 @@ import {
   ComputeBudgetProgram,
 } from "@solana/web3.js";
 import BN from "bn.js";
-import ReactTooltip from "react-tooltip";
+// import ReactTooltip from "react-tooltip";
 import { useRouter } from "next/router";
 import { ReactNode, useEffect } from "react";
 import { SubmitHandler, useForm } from "react-hook-form";
@@ -673,7 +673,7 @@ const CreateMarket = () => {
           </div>
         </form>
       </div>
-      <ReactTooltip place="right" />
+      {/* <ReactTooltip place="right" /> */}
     </>
   );
 };
