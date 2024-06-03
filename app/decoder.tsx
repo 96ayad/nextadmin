@@ -1,3 +1,4 @@
+"use client";
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { decodeInstruction } from "@project-serum/serum";
 import { PublicKey } from "@solana/web3.js";

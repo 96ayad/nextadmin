@@ -1,4 +1,6 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
+"use client";
+
 import { useRouter } from "next/router";
 import React, { ReactNode } from "react";
 // import { getSearchLayout } from "../components/layouts/SearchLayout";

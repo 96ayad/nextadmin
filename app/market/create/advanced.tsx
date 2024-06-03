@@ -1,3 +1,4 @@
+"use client";
 import { DexInstructions } from "@project-serum/serum";
 import { useConnection, useWallet } from "@solana/wallet-adapter-react";
 import { PublicKey, Transaction } from "@solana/web3.js";

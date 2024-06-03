@@ -1,3 +1,4 @@
+"use client";
 import { useRouter } from "next/router";
 // import { ReactNode } from "react";
 import { useSerumMarket } from "../../hooks/useSerumMarket";

@@ -1,3 +1,4 @@
+"use client";
 // import { NextPage } from "next";
 // import { AppProps } from "next/app";
 // import { FC } from "react";

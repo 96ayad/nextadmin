@@ -1,4 +1,5 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
+"use client";
 import { RadioGroup } from "@headlessui/react";
 import { DexInstructions, Market } from "@project-serum/serum";
 import {
